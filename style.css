@@ -1,0 +1,45 @@
+div.row {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+div.light-blue {
+    background-color: rgb(53, 136, 151);
+    width: 350px;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 10px
+}
+
+div.light-yellow {
+    background-color: rgb(238, 238, 48);
+    width: 350px;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 10px
+}
+
+div.pink {
+    background-color: pink;
+    width: 350px;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 10px
+}
+
+div.grey {
+    background-color: grey;
+    width: 350px;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 10px
+}
+
+div.container {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
